@@ -1,2 +1,2 @@
 # szkola
-bibliotegizgibhub
+Testowy plik readme
