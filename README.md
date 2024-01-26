@@ -1,2 +1,2 @@
-# szokla
+# szkola
 bibliotegizgibhub
